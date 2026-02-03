@@ -1,0 +1,5 @@
+{
+  "name": "HomeHealth",
+  "description": "An enterprise-grade home health monitoring dashboard with edge AI integration, real-time telemetry, and Gemini-powered medical insights.",
+  "requestFramePermissions": []
+}
