@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "HomeHealth Guardian AI",
+  "description": "AI-powered home health monitoring system providing real-time telemetry analysis and predictive health insights.",
+  "majorCapabilities": []
+}
